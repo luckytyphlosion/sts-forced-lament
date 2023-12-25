@@ -1,1 +1,1 @@
-Don't track in-game time when idling.
+Force Mini blessing (Neow's Lament and Max HP)
